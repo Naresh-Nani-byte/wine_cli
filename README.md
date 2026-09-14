@@ -1,4 +1,4 @@
-[![YOLO](https://img.shields.io/badge/YOLO-0%25-brightgreen?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/wine_cli)
+[[![YOLO](https://img.shields.io/badge/YOLO-100%25-red?style=flat-square![YOLO](https://img.shields.io/badge/YOLO-0%25-brightgreen?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/wine_cli)logo=github)](https://github.com/Naresh-Nani-byte/wine_cli)
 
 # wine_cli
 
